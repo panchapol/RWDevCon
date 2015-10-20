@@ -16,7 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, TVApplicationControllerDe
 
     var appController: TVApplicationController?
     
-    static let LocalHost = true
+    static let LocalHost = false
     
     // To run the cleint code on localhost, go to terminal at folder {PROJECT_DIR}/parse/public and run "python -m SimpleHTTPServer 9001"
     static let TVBaseURL = LocalHost ? "http://localhost:9001/" : "http://sample-tv-app.parseapp.com/"
