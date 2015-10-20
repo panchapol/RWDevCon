@@ -1,5 +1,5 @@
 App.onLaunch = function(options) {
-  var alert = createAlert("Hello World", "");
+  var alert = createAlert("Hello World", "This code is on parse at js folder.");
   navigationDocument.presentModal(alert);
 }
 

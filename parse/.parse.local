@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Apple TV Demo": {
+      "applicationId": "GLwf8IMtcocsseTXDZfGjZMCFwDBGI7Ox0Rguu9a"
+    },
+    "_default": {
+      "link": "Apple TV Demo"
+    }
+  }
+}
